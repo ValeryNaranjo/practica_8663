@@ -1,2 +1,3 @@
 usuario clave
 vinz    1234 
+betliz  456
